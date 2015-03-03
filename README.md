@@ -4,7 +4,6 @@ This product has already been widely adopted by the Arduino community, with many
 
 pyRockBLOCK will work on pretty much anything that runs Python; so you’ll be up and running with just a few lines of code, which will give you plenty of time to 3D print your very own Raspberry Pi X RockBLOCK case or create all manner of crazy UAV’s, High Altitude Balloons and Ocean Sensing Buoys using your RockBLOCK!
 
-Full tutorial availiable at:
+Full tutorial available at: http://www.makersnake.com/rockblock/
 
-http://www.makersnake.com/rockblock/
-
+[MS]

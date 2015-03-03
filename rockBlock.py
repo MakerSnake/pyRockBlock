@@ -12,12 +12,13 @@
 #    See the License for the specific language governing permissions and
 #    limitations under the License.
    
-import serial
-import time
+import glob
 import signal
 import sys
-import glob
-from __builtin__ import False
+import time
+
+import serial
+
 
 class rockBlockProtocol(object):
     

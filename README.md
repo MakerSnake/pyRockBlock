@@ -3,3 +3,8 @@ The RockBLOCK Mk2 is one awesome module. It literally houses everything you need
 This product has already been widely adopted by the Arduino community, with many happy RockBLOCK’ers thanks to Mikal Hart’s C++ IridiumSBD library; but I couldn’t find anything specifically for the many Python Raspberry Pi users… Fear not, inspired by Mikal’s library, and copious amounts of Columbia’s finest, coffee that is, I’ve created… pyRockBLOCK. The super-simple library that makes sending and receiving messages via satellite as simple as: sendMessage(“Hello World”) and requestMessageCheck().
 
 pyRockBLOCK will work on pretty much anything that runs Python; so you’ll be up and running with just a few lines of code, which will give you plenty of time to 3D print your very own Raspberry Pi X RockBLOCK case or create all manner of crazy UAV’s, High Altitude Balloons and Ocean Sensing Buoys using your RockBLOCK!
+
+Full tutorial availiable at:
+
+http://www.makersnake.com/rockblock/
+
